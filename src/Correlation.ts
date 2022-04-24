@@ -1,6 +1,8 @@
 import * as http from 'http';
 import * as uuid from 'uuid';
+// @ts-ignore
 import * as cls from 'cls-hooked';
+// @ts-ignore
 import { get } from 'lodash';
 
 export enum SessionKey {
