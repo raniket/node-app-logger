@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "structured logging for node.js applications",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "homepage": "https://github.com/raniket/node-app-logger.git",
   "repository": {
     "type": "git",
